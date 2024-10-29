@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  width: 100;
+}
+
+ul {
+  width: 100%;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.icons-container {
+  display: flex;
+  gap: 7px;
+}
+
+#add-book-link {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 15px 7px;
+  margin: 0 auto;
+}
+
+#add-book-link:hover {
+  background-color: #f2f2f2;
+}
+
+#add-book-link:active {
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+}

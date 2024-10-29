@@ -1,0 +1,12 @@
+#text-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5vh;
+}
+p {
+  font-size: larger;
+}

@@ -1,0 +1,18 @@
+body {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.iconify {
+  cursor: pointer;
+  width: 20;
+  height: 20;
+}
+
+.iconify:hover {
+  opacity: 0.7;
+}
