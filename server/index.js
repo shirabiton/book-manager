@@ -9,11 +9,11 @@ const port = 5000;
 
 // DB
 const books = [
-  { id: 1, name: "To Kill a Mockingbird", author: "Harper Lee" },
-  { id: 2, name: "1984", author: "George Orwell" },
-  { id: 3, name: "Pride and Prejudice", author: "Jane Austen" },
-  { id: 4, name: "The Great Gatsby", author: "F. Scott Fitzgerald" },
-  { id: 5, name: "Moby-Dick", author: "Herman Melville" },
+  { id: 0, name: "To Kill a Mockingbird", author: "Harper Lee" },
+  { id: 1, name: "1984", author: "George Orwell" },
+  { id: 2, name: "Pride and Prejudice", author: "Jane Austen" },
+  { id: 3, name: "The Great Gatsby", author: "F. Scott Fitzgerald" },
+  { id: 4, name: "Moby-Dick", author: "Herman Melville" },
 ];
 
 // Get
